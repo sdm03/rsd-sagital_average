@@ -1,0 +1,9 @@
+a86f40870787f49c6fc41a122a328d184e3b1ff9 is the first bad commit
+commit a86f40870787f49c6fc41a122a328d184e3b1ff9
+Author: Charlene Bultoc <c.bultoc@neurolab.ac.uk>
+Date:   Sun Sep 29 05:35:31 2019 +0100
+
+    Uses numpy to calculate the average
+
+ sagital_brain.py | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
